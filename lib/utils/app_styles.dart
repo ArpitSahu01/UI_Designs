@@ -18,6 +18,8 @@ const kLightYellow = Color(0xffFFFBEC);
 const kLightRed = Color(0xffFEEEEE);
 const kLightGreen = Color(0xffF0FFFF);
 
+const kTextColorGrey = Color(0xff898989);
+
 final double kPaddigHorizontal = SizeConfig.blockSizeHorizontal! *6;
 final double kPaddingVertical = SizeConfig.blockSizeVertical! * 4;
 const double kBorderRadius = 10.0;
