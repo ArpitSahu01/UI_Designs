@@ -19,11 +19,15 @@ const kLightRed = Color(0xffFEEEEE);
 const kLightGreen = Color(0xffF0FFFF);
 
 const kTextColorGrey = Color(0xff898989);
+const kTextColorBlack  = Color(0xff414141);
+const kTextColorLightBlack = Color(0xff585757);
 
 const kPieBlue = Color(0xff22215B);
 const kPieLightBlue = Color(0xff567DF4);
 const kPieYellow = Color(0xffF4BE37);
 const kPieGreen = Color(0xff4CE364);
+
+const kIndicatorbg = Color(0xffDBDBDB);
 
 final double kPaddigHorizontal = SizeConfig.blockSizeHorizontal! *6;
 final double kPaddingVertical = SizeConfig.blockSizeVertical! * 4;
